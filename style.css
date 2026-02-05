@@ -37,7 +37,7 @@ body {
 }
 
 .brand-logo {
-    width: 140px;        /* Größe des Logos - bei Bedarf anpassen (z.B. 60px oder 100px) */
+    width: 100px;        /* Größe des Logos - bei Bedarf anpassen (z.B. 60px oder 100px) */
     height: auto;       /* Verhältnis beibehalten */
     margin-bottom: 25px; /* Abstand zum Text "Friedrich Partners" */
     display: block;
